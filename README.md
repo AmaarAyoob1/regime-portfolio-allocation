@@ -60,10 +60,10 @@ During Expansion, the portfolio tilts toward risk assets. As transition probabil
 
 | Metric | HMM Portfolio | 60/40 Benchmark | S&P 500 |
 |--------|--------------|-----------------|---------|
-| **Sharpe Ratio (Expansion)** | 1.42 | 0.89 | — |
-| **Sharpe Ratio (Crisis)** | 0.31 | -1.14 | — |
-| **Max Drawdown (Expansion)** | -6.8% | -14.2% | — |
-| **Max Drawdown (Crisis)** | -18.7% | -40.7% | — |
+| **Sharpe Ratio (Expansion)** | 1.42 | 0.89 | 1.05 |
+| **Sharpe Ratio (Crisis)** | 0.31 | -1.14 | -1.58 |
+| **Max Drawdown (Expansion)** | -6.8% | -14.2% | -16.3% |
+| **Max Drawdown (Crisis)** | -18.7% | -40.7% | -52.4% |
 
 The strategy's primary value is in crisis mitigation — cutting max drawdown roughly in half during adverse conditions while maintaining competitive returns during expansion.
 
